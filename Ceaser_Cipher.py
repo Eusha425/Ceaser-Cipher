@@ -1,3 +1,5 @@
+# Author: Gazi MD Wasi-UL-Hoque Eusha
+# Date: 2 July 2022
 # function to return back the index of a character 
 # takes the user input message and an initial index of 0 as parameters 
 def return_index(message, index):
